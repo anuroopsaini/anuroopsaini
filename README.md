@@ -1,7 +1,7 @@
 # anuroop saini
 
 - 🎓 **3.9 GPA** at Penn State University pursuing a double major in **Computer Science** and **Mathematics**.
-- 🔬 Conducting research at **CISB** and previously worked as an **ML Engineering Intern at KIMS-Sunshine**.
+- 🔬 Conducting research in **CISB** and previously worked as an **ML Engineering Intern at KIMS-Sunshine**.
 - 💼 **Open to Summer 2027 internships** and **full-time opportunities starting August 2027**.
 
 I'm a Computer Science and Mathematics student at Penn State University with interests in software engineering, quantitative development and research, artificial intelligence, machine learning, and full-stack development. I enjoy building projects, exploring emerging technologies, conducting research, and solving complex problems through code. Outside of academics, I play basketball, guitar, and actively seek opportunities to learn, collaborate, and create impactful solutions.
