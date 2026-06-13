@@ -1,5 +1,4 @@
-# 💫 About Me:
-# Anuroop Saini
+# anuroop saini
 
 - 🎓 **3.9 GPA** at Penn State University pursuing a double major in **Computer Science** and **Mathematics**.
 - 🔬 Conducting research at **CISB** and previously worked as an **ML Engineering Intern at KIMS-Sunshine**.
